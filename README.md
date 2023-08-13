@@ -34,6 +34,7 @@ Misr University for Science and Technology
 ## Projects
 ### 1- Genetic Variation in SARS-CoV2
 ![Genetic Variation in SARS-CoV2](images/Genetic Variation in SARS-CoV2.PNG)
+
 At the end of December 2019, a novel strain of Severe Acute Respiratory Syndrome
 Coronavirus 2 (SARS-CoV-2) disease (COVID-19) has been identified in Wuhan, a central
 city in China, and then spread to every corner of the globe. As of October 8, 2022, the total
