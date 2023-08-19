@@ -2,9 +2,9 @@ title: Mariam Badr
 logo: /images/profile-pic.png
 #show_downloads: true
 theme: jekyll-theme-minimal            
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - linkedin_username: mariam-badr2
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+social-network-links:
+  email: "Mariam.badr@outlook.com"
+  github: "Mariam1000"
+  linkedin: "mariam-badr2"
+
+
