@@ -6,5 +6,11 @@ social-network-links:
   email: "Mariam.badr@outlook.com"
   github: "Mariam1000"
   linkedin: "mariam-badr2"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
 
 
