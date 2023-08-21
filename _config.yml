@@ -1,16 +1,15 @@
-# title: Mariam Badr
-# #show_downloads: true
-# theme: jekyll-theme-minimal            
-# social-network-links:
-#   email: "Mariam.badr@outlook.com"
-#   github: "Mariam1000"
-#   linkedin: "mariam-badr2"
-#   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-# share-links-active:
-#   twitter: true
-#   facebook: true
-#   linkedin: true
-#   vk: false
-remote_theme: yaoyao-liu/minimal-light
+title: Mariam Badr
+#show_downloads: true
+remote_theme: yaoyao-liu/minimal-light           
+social-network-links:
+  email: "Mariam.badr@outlook.com"
+  github: "Mariam1000"
+  linkedin: "mariam-badr2"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
 
 logo: /images/profile-pic.png
