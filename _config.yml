@@ -1,6 +1,6 @@
 title: Mariam Badr
 #show_downloads: true
-remote_theme: yaoyao-liu/minimal-light 
+theme:  jekyll-theme-minimal 
 logo: /images/profile-pic.png
 social-network-links:
   email: "Mariam.badr@outlook.com"
