@@ -1,6 +1,7 @@
 title: Mariam Badr
 #show_downloads: true
-remote_theme: yaoyao-liu/minimal-light           
+remote_theme: yaoyao-liu/minimal-light 
+logo: /images/profile-pic.png
 social-network-links:
   email: "Mariam.badr@outlook.com"
   github: "Mariam1000"
@@ -12,4 +13,3 @@ share-links-active:
   linkedin: true
   vk: false
 
-logo: /images/profile-pic.png
